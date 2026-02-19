@@ -3,8 +3,9 @@ name: tenx-thinking
 description: Challenge incremental thinking by reframing problems to require 10x improvement, forcing abandonment of existing assumptions and discovery of revolutionary approaches.
 license: MIT
 metadata:
+  version: 1.0.5149
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - 10x-thinking
 - compression
